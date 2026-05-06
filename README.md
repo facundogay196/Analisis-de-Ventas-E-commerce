@@ -22,7 +22,7 @@ Este proyecto esta creado para hacer un analisis de ventas de un dataset de un E
 
 ## 📷 Ejemplos
 
-![Imagenes](images/correlacion ventasxclientes.png)
+![Imagenes](images/ventas por mes.png)
 
 ## 🚀 Conclusión
 Proyecto enfocado en práctica de data wrangling, análisis exploratorio y visualización.
