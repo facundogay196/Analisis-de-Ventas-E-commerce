@@ -11,7 +11,7 @@
 - numpy
 - matplotlib*
 
-# This project analyzes e-commerce sales data using exploratory data analysis techniques to identify patterns and support data-driven business decisions.
+### This project analyzes e-commerce sales data using exploratory data analysis techniques to identify patterns and support data-driven business decisions.
 
 ## 🛠️ Tools
 - Python
