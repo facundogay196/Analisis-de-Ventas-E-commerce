@@ -1,4 +1,4 @@
-# Analisis-de-Ventas-E-commerce
+# 📊 E-commerce Sales Analysis
 
 ## ▶️ How to Run
 
@@ -12,34 +12,37 @@
 - matplotlib*
 
 
+This project was created to analyze sales data from an e-commerce dataset using a simple exploratory analysis in order to support better business decisions related to sales performance.
 
-Este proyecto esta creado para hacer un analisis de ventas de un dataset de un E-commerce, usando un analisis simple para poder tomar mejores decisiones respecto a las ventas
-
-## 🛠️ Herramientas
+## 🛠️ Tools
 - Python
 - pandas
 - numpy
 - matplotlib
 
-## 📈 Análisis realizado
-- Ventas promedio por país
-- Ventas por categoría
-- Evolución temporal
-- Relación entre clientes y ventas
+## 📈 Analysis Performed
+- Average sales by country
+- Sales by category
+- Sales evolution over time
+- Relationship between customers and sales
 
 ## 🔍 Insights
 
-- *No se observa un patrón claro por mes debido a la naturaleza aleatoria del dataset.*
-- No existe una correlación significativa entre clientes y ventas.
-- Algunas categorías muestran mayor volumen de ventas que otras.
+- No clear monthly pattern was observed due to the random nature of the dataset.
+- There is no significant correlation between customers and sales.
+- Some categories show higher sales volume than others.
 
-## 📷 Ventas por Categoria
+## 📷 Sales by Category
 
-![Ventas por Categorias](images/ventas_categoria.png)
+![Sales by Category](images/ventas_categoria.png)
 
-## 🤑 Correlacion de ventas por cliente
+## 🤑 Customer vs Sales Correlation
 
-![Correlacion de ventas por cliente](images/clientesxventas.png)
+![Customer vs Sales Correlation](images/clientesxventas.png)
 
-## 🚀 Conclusión
-Proyecto enfocado en práctica de data wrangling, análisis exploratorio y visualización.
+
+## 🚀 Conclusion
+
+This project allowed exploration of data wrangling, exploratory data analysis, and visualization techniques using Python libraries such as pandas, numpy, and matplotlib.
+
+The analysis identified differences in sales across categories and countries, while also evaluating possible relationships between customers and sales performance.
