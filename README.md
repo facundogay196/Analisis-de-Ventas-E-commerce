@@ -16,7 +16,7 @@ Este proyecto esta creado para hacer un analisis de ventas de un dataset de un E
 
 ## 🔍 Insights
 
-- No se observa un patrón claro por mes debido a la naturaleza aleatoria del dataset.
+- *No se observa un patrón claro por mes debido a la naturaleza aleatoria del dataset.*
 - No existe una correlación significativa entre clientes y ventas.
 - Algunas categorías muestran mayor volumen de ventas que otras.
 
