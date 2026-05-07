@@ -1,5 +1,18 @@
 # Analisis-de-Ventas-E-commerce
 
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open the notebook in Jupyter or Google Colab
+3. Run all cells
+
+*Required libraries:
+- pandas
+- numpy
+- matplotlib*
+
+
+
 Este proyecto esta creado para hacer un analisis de ventas de un dataset de un E-commerce, usando un analisis simple para poder tomar mejores decisiones respecto a las ventas
 
 ## 🛠️ Herramientas
